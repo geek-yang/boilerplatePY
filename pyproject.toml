@@ -24,11 +24,11 @@ readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.9, <3.12"
 authors = [
-  {email = "yangliu@gmail.com"},
+  {email = "liuyang.bach@outlook.com"},
   {name = "Yang Liu"}
 ]
 maintainers = [
-  {name = "Yang Liu", email = "yangliu@gmail.com"},
+  {name = "Yang Liu", email = "liuyang.bach@outlook.com"},
 ]
 keywords = [
   "demo",
